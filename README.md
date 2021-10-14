@@ -76,7 +76,7 @@ This analysis leads to these recommendations for Microsoft's new movie studio:
 
 1. Microsoft should make an Action & Adventure movie, with elements of Sci-Fi
 2. Microsoft should aim for a minimum 2x return on their investment in domestic metrics
-  1. 4x return on their investment in domestic metrics by worldwide metrics
+    1. 4x return on their investment in domestic metrics by worldwide metrics
 3. Microsoft should release their movie in the summer season
 
 ## Next Steps
