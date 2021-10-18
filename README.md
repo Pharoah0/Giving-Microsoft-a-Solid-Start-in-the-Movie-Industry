@@ -72,6 +72,13 @@ This analysis leads to these recommendations for Microsoft's new movie studio:
 * Movies like Jurassic World can be a case study. 
   * A Lower budget, despite massively successful gross metrics & returns
 
+## Recommendations
+
+1. Microsoft should make an Action & Adventure movie, with elements of Sci-Fi
+2. Microsoft should aim for a minimum 2x return on their investment in domestic metrics
+    1. 4x return on their investment in domestic metrics by worldwide metrics
+3. Microsoft should release their movie in the summer season
+
 ## Next Steps
 
 Further analyses could yield additional insights to further improve movie creation at Microsoft's movie studio:
