@@ -66,11 +66,18 @@ This analysis leads to these recommendations for Microsoft's new movie studio:
 * Western & Fantasy movies may be a challenge as well. Since they garner a similar amount of returns as the overall cost of the budget to make an those types of movie, on average.
 * Adventure movies can be the most rewarding. However out of the top movie sales, Sci-Fi had the lowest average budget output
   * Animation movies have a similar outlook
-* Having a high Budget doesn’t necessarily equal high grossing film
-* Summer is the overall best season to release movies
-  * Spring and Winter have comparable and some better outlier high grossing films to summer
-* Movies like Jurassic World can be a case study. 
-  * A Lower budget, despite massively successful gross metrics & returns
+* Having the highest budget doesn’t necessarily equal high grossing film.
+  * A budget between $100M & $200M will suffice
+* Summer is the best season to release movies based on average sales. Summer also has fewer outliers compared to Fall & Winter.
+  * A release date between June and August is ideal
+  * Spring and Winter have comparable & more extreme outlier, high grossing films to Summer
+* In line with these conclusions, movies like Jurassic World: Fallen Kingdom can be a case study for Microsoft’s path to success. 
+  * Universal Pictures kept a budget under $170M
+  * It’s an Action, Adventure, and Sci-Fi movie - each genre being a high grossing genre. Fallen Kingdom brought in over $1.3B worldwide
+  * It is a sequel to Jurassic World, a film with:
+      * A budget of $215M
+      * An Action, Adventure, and Sci-Fi film, with a revenue of over $1.6B worldwide
+
 
 ## Recommendations
 
